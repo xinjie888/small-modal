@@ -1,0 +1,12 @@
+[
+  {
+    "title": "JS Components",
+    "list": [
+      {
+        "path": "/Modal",
+        "name": "Modal",
+        "icon": "modal"
+      }
+    ]
+  }
+]

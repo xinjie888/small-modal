@@ -15,8 +15,6 @@ Vue.component(Modal.name, Modal)
 > 是否显示取消按钮
 * btnOk
 > 是否显示确定按钮
-* showButton
-> 是否显示组件内置按钮。默认为true
 * title
 > 标题文案
 * msg
